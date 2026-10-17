@@ -3,9 +3,8 @@
 <p align="center">복잡한 업무 데이터를 근거를 확인하고 실행을 통제할 수 있는 AI 워크플로로 연결합니다.</p>
 
 ### About Me
-- 🏢 Senior Researcher, Strategic Planning Office at LIST (리스트 전략기획실 선임연구원)
-- 🎓 Ph.D. student in AI Convergence at aSSIST (aSSIST AI융합 박사과정)
-- 📊 Public data consulting background (공공데이터 컨설팅)
+- 🎓 Ph.D. student in AI Convergence
+- 📊 IT & AX strategy consultant (ISP, public data, digital transformation)
 - 🧑‍🏫 AI education instructor and competition judge (AI 교육 강사, 심사위원)
 
 ### 🔭 Selected Work
