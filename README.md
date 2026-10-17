@@ -14,7 +14,7 @@
 | [**PaperOps**](https://github.com/SakJaeLim/paperops) | Local-first research workflow with traceable evidence, guarded manuscript edits, and human verification gates. CI on Python 3.10 to 3.13. | Python, SQLite |
 | [**filename-rescue**](https://github.com/SakJaeLim/filename-rescue) | Windows utility for previewing and repairing decomposed Korean filenames. | Python |
 
-<sub>Also: a team financial QA engine with evidence citations and abstention rules (private team project).</sub>
+<sub>Also: [PortSLM](https://huggingface.co/AICPADSLIM/PortSLM-Qwen2.5-VL-3B-v2), a port-domain vision-language model fine-tuned from Qwen2.5-VL-3B (team project), and a team financial QA engine with evidence citations and abstention rules (private team project).</sub>
 
 ### 🧭 How I Work
 **Define the decision → Structure the data → Check execution policies → Inspect evidence → Test failure cases**
@@ -28,6 +28,6 @@
 </p>
 
 ### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-lim.aicpa.ds%40stud.assist.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lim.aicpa.ds@stud.assist.ac.kr)
+[![Email](https://img.shields.io/badge/Email-lim.aicpa.ds%40stud.assist.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lim.aicpa.ds@stud.assist.ac.kr) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AICPADSLIM-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AICPADSLIM)
 
 <sub>Projects use AI-assisted development; each README separates implemented behavior, evaluation scope, and limitations.</sub>
