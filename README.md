@@ -8,18 +8,18 @@ I work on public-sector information strategy and data use, and build tools that 
 
 ## Selected work
 
-### [Ontology & Evidence Review](https://github.com/SakJaeLim/llm_wiki/tree/main/extensions/evidence-review)
+### [Ontology Review](https://github.com/SakJaeLim/ontology-review)
 
 데이터의 설명이 바뀌면 이전 검토 결과도 다시 확인해야 합니다. NVIDIA Auto Ontology 형식의 데이터 사전을 가져와 Microsoft Ontology Playground 편집기에서 설명을 수정하고, 보존된 원문과 비교해 검토하는 로컬 작업 공간을 개발했습니다. 승인 뒤 내용을 다시 수정하면 기존 이력은 남고 현재 내용은 재검토 대상으로 바뀝니다.
 
 A local workspace for importing NVIDIA Auto Ontology dictionaries, editing descriptions in Microsoft Ontology Playground, and reviewing changes against the preserved source. Later edits require a new review while keeping earlier decisions in history.
 
-[![Microsoft Ontology Playground connected to the evidence review workspace](https://raw.githubusercontent.com/SakJaeLim/llm_wiki/a3527442f440d1521e111a9c7f0328fa66efe248/extensions/evidence-review/assets/connection-editor.jpg)](https://github.com/SakJaeLim/llm_wiki/blob/main/extensions/evidence-review/CONNECTION.md)
+[![Ontology Review comparing the original and edited definition](https://raw.githubusercontent.com/SakJaeLim/ontology-review/b5b1d8ecfdb015385c2b0aa07bc171e2fba775dc/assets/standalone-review.png)](https://github.com/SakJaeLim/ontology-review/blob/main/CONNECTION.md)
 
-[실행 안내 / Run locally](https://github.com/SakJaeLim/llm_wiki/blob/main/extensions/evidence-review/CONNECTION.md)  
-[실제 화면으로 구성한 20초 시연 / Captured-state walkthrough](https://github.com/SakJaeLim/llm_wiki/blob/main/extensions/evidence-review/assets/connection-walkthrough.mp4)
+[실행 안내 / Run locally](https://github.com/SakJaeLim/ontology-review/blob/main/CONNECTION.md)  
+[실제 화면으로 구성한 20초 시연 / Captured-state walkthrough](https://github.com/SakJaeLim/ontology-review/blob/main/assets/connection-walkthrough.mp4)
 
-<sub>Built on forks of <a href="https://github.com/nashsu/llm_wiki">LLM Wiki</a> and <a href="https://github.com/microsoft/Ontology-Playground">Microsoft Ontology Playground</a>, using the <a href="https://github.com/NVIDIA/auto-ontology">NVIDIA Auto Ontology</a> data format. My additions are the dictionary adapter, editor connection, and evidence review workflow.</sub>
+<sub>The review engine and workbench are maintained in this independent project. The visual editor comes from <a href="https://github.com/microsoft/Ontology-Playground">Microsoft Ontology Playground</a>; the dictionary format comes from <a href="https://github.com/NVIDIA/auto-ontology">NVIDIA Auto Ontology</a>. <a href="https://github.com/SakJaeLim/ontology-review/blob/main/PROVENANCE.md">Contribution map and development history</a>.</sub>
 
 ### [TrustFlow MCP](https://github.com/SakJaeLim/trustflow-mcp-data-agent)
 
