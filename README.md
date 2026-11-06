@@ -48,10 +48,4 @@ Ontology Review connects a review engine to the Microsoft Ontology Playground ed
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" alt="Seokje Lim's GitHub activity" src="https://github-readme-stats.vercel.app/api?username=SakJaeLim&show_icons=true" />
-</p>
-
 <sub>Projects use AI-assisted development. Each repository explains what works, how to run it, and what still needs work.</sub>
